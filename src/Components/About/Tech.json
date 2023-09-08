@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "icon": "img/ReactIcon.png"
+  },
+  {
+    "id": 2,
+    "name": "node.js",
+    "icon": "img/NodeIcon.png"
+  },
+  {
+    "id": 3,
+    "name": "express.js",
+    "icon": "img/ExpressIcon.png"
+  },
+  {
+    "id": 4,
+    "name": "Tailwind CSS",
+    "icon": "img/TailwindIcon.png"
+  },
+  {
+    "id": 5,
+    "name": "MySQL",
+    "icon": "img/MysqlIcon.png"
+  },
+  {
+    "id": 6,
+    "name": "HTML & CSS",
+    "icon": "img/HtmlCssIcon.png"
+  },
+  {
+    "id": 7,
+    "name": "JavaScript",
+    "icon": "img/JSIcon.png"
+  },
+  {
+    "id": 8,
+    "name": "C",
+    "icon": "img/ClangIcon.png"
+  },
+  {
+    "id": 9,
+    "name": "Java",
+    "icon": "img/JavaIcon.png"
+  },
+  {
+    "id": 10,
+    "name": "Git",
+    "icon": "img/GitIcon.png"
+  },
+  {
+    "id": 11,
+    "name": "LaTeX",
+    "icon": "img/LatexIcon.png"
+  }
+]

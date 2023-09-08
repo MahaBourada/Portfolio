@@ -1,0 +1,66 @@
+{
+  "Home": {
+    "hello": "Hi there, i'm",
+    "job": {
+      "key": "english",
+      "1": "I'm a software developer",
+      "2": "I'm a web developer"
+    },
+    "desc": "I've always been passionate about computer science, specifically web development where i can be creative. I have an interest in video games development as well.",
+    "resume": {
+      "label": "Resume",
+      "file": "Files/CV_english.pdf",
+      "fileName": "Resume_BOURADA Maha Marwa.pdf"
+    },
+    "about": "About me"
+  },
+  "About": {
+    "title": "About",
+    "par1": "I have a bachelor's degree in software engineering. My journey in computer science started with playing video games and getting curious on how they're developed.",
+    "par2": "After majoring in computer science, my interest switched to web development, i felt like i was drawing using code.",
+    "par3": "Aside from programming, I enjoy many hobbies such as drawing, reading and playing video games.",
+    "par4": "Here are some of the technologies I've worked with:"
+  },
+  "Projects": {
+    "title": "Projects",
+    "list": [
+      {
+        "id": "1",
+        "title": "BotsCompete",
+        "lang": "React JS, Node.js, MySQL",
+        "subDesc": "Graduation group project",
+        "desc": "Secure competitve e-learning platform about machine learning challenges.",
+        "url": "https://github.com/MahaBourada/BotsCompete",
+        "image": "img/BotsCompete.png"
+      },
+      {
+        "id": "2",
+        "title": "E-learning website",
+        "lang": "HTML & CSS, JavaScript",
+        "desc": "Front-end of an e-learning website (teacher side).",
+        "url": "https://github.com/MahaBourada/E-learning_Front-end",
+        "image": "img/BotsCompete.png"
+      },
+      {
+        "id": "3",
+        "title": "Tic Tac Toe",
+        "lang": "HTML & CSS, JavaScript",
+        "desc": "A simple JavaScript tic tac toe game.",
+        "url": "https://github.com/MahaBourada/Tic-Tac-Toe",
+        "image": "img/BotsCompete.png"
+      },
+      {
+        "id": "4",
+        "title": "Weather application",
+        "lang": "React",
+        "desc": "Weather application developed using ReactJS and the Open Weather Map API.",
+        "url": "https://github.com/MahaBourada/React_Weather_App",
+        "image": "img/BotsCompete.png"
+      }
+    ]
+  },
+  "Contact": {
+    "par": "I am interested in internships so if you think that my skills are helpful don't hesitate to contact me.",
+    "location": "Paris, France"
+  }
+}

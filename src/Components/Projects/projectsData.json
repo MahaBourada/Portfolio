@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0",
+        "lang": "React JS, Node.js, MySQL",
+        "subDesc": true,
+        "url": "https://github.com/MahaBourada/BotsCompete",
+        "image": "img/BotsCompetePreview.png"
+    },
+    {
+        "id": "1",
+        "lang": "HTML & CSS, JavaScript",
+        "subDesc": false,
+        "url": "https://github.com/MahaBourada/E-learning_Front-end",
+        "image": "img/E-learningPreview.png"
+    },
+    {
+        "id": "2",
+        "lang": "HTML & CSS, JavaScript",
+        "subDesc": false,
+        "url": "https://github.com/MahaBourada/Tic-Tac-Toe",
+        "image": "img/TicTacToePreview.png"
+    },
+    {
+        "id": "3",
+        "lang": "React",
+        "subDesc": false,
+        "url": "https://github.com/MahaBourada/React_Weather_App",
+        "image": "img/WeatherAppPreview.png"
+    }
+]

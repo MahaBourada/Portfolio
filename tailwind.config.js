@@ -4,12 +4,16 @@ module.exports = {
   theme: {
     screens: {
       // => @media (min-width: 320px) { ... }
-      'xsm': '320px', /* Extra small devices: mobile */
-      'sm': '480px', /* Small devices: mobile */
-      'md': '768px', /* Tablets */
-      'lg': '992px', /* Laptop */
-      'xl': '1200px', /* Desktop */
-      '2xl': '1536px', /* Extra large devices: TV */
+      xsm: "320px" /* Extra small devices: mobile */,
+      bty: "425px",
+      enty: "479px",
+      sm: "480px" /* Small devices: mobile */,
+      md: "768px" /* Tablets */,
+      xmd: "845px",
+      lg: "992px" /* Laptop */,
+      xl: "1200px" /* Desktop */,
+      xxl: "1400px",
+      "2xl": "1536px" /* Extra large devices: TV */,
     },
     fontFamily: {
       main: ["Press\\ Start\\ 2P", "cursive"],
@@ -21,7 +25,10 @@ module.exports = {
         "1px": "1px",
       },
       boxShadow: {
-        small: "3px 3px 3px 00px  rgba(89, 89, 89, 0.8)",
+        small: "3px 3px 3px 0px  rgba(89, 89, 89, 0.8)",
+        fadedSm: "1px 3px 9px 0px  rgba(89, 89, 89, 0.3)",
+        right: "-4px 6px 8px 2px  rgba(89, 89, 89, 0.8)",
+        left: "4px 6px 8px 2px  rgba(89, 89, 89, 0.8)"
       },
       ms: {
         "618px": "628px",
@@ -71,6 +78,8 @@ module.exports = {
         },
         background: {
           100: "#fdf0d5",
+          200: "#F4E6CD",
+          300: "#993238"
         },
       },
     },

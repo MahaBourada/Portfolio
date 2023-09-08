@@ -1,0 +1,54 @@
+{
+  "Home": {
+    "hello": "Salut, je suis",
+    "job": {
+      "key": "french",
+      "1": "Je suis ingénieure en logiciel",
+      "2": "Je suis développeuse web"
+    },
+    "desc": "J'ai toujours été passionnée par l'informatique depuis mon plus jeune âge, surtout le développement web où je peux être créative. Je suis également interessée par le développement de jeux vidéos.",
+    "resume": {
+      "label": "CV",
+      "file": "Files/CV_francais.pdf",
+      "fileName": "CV_BOURADA Maha Marwa.pdf"
+    },
+    "about": "À propos"
+  },
+  "About": {
+    "title": "À propos",
+    "par1": "Je suis titulaire d'un diplôme en Génie Logiciel. Mon intérêt pour la programmation est né quand j'ai commencé à jouer aux jeux videos. Leur développement a attisé ma curiosité.",
+    "par2": "Après m'être spécialisée en Génie Logiciel, je me spécialement intéressée au développement Web car je pouvais créer en utilisant du code.",
+    "par3": "À part la programmation, j'ai plusieurs hobbies comme le dessin, la lecture et les jeux videos.",
+    "par4": "Voici quelques technologies que j'ai déja utilisée:"
+  },
+  "Projects": {
+    "title": "Projets",
+    "list": [
+      {
+        "id": "0",
+        "title": "BotsCompete",
+        "subDesc": "Projet de fin d'études",
+        "desc": "Plateforme d'apprentissage compétitive et sécurisée pour les défis techniques en machine learning."
+      },
+      {
+        "id": "1",
+        "title": "Site de e-learning",
+        "desc": "Front-end d'un site e-learning (côté enseignant)."
+      },
+      {
+        "id": "2",
+        "title": "Tic Tac Toe",
+        "desc": "Un simple jeu de tic tac toe JavaScript."
+      },
+      {
+        "id": "3",
+        "title": "Application météo",
+        "desc": "Application météo développée avec ReactJS et l'API Open Weather Map."
+      }
+    ]
+  },
+  "Contact": {
+    "par": "Je suis interessée par un stage ou une formation en alternance, si vous pensez que mes compétences peuvent vous être utiles, je suis disponible à votre disposition.",
+    "location": "Paris, France"
+  }
+}
