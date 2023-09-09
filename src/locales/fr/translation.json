@@ -3,7 +3,7 @@
     "hello": "Salut, je suis",
     "job": {
       "key": "french",
-      "1": "Je suis ingénieure en logiciel",
+      "1": "Je suis développeuse logiciel",
       "2": "Je suis développeuse web"
     },
     "desc": "J'ai toujours été passionnée par l'informatique depuis mon plus jeune âge, surtout le développement web où je peux être créative. Je suis également interessée par le développement de jeux vidéos.",
@@ -17,8 +17,8 @@
   "About": {
     "title": "À propos",
     "par1": "Je suis titulaire d'un diplôme en Génie Logiciel. Mon intérêt pour la programmation est né quand j'ai commencé à jouer aux jeux videos. Leur développement a attisé ma curiosité.",
-    "par2": "Après m'être spécialisée en Génie Logiciel, je me spécialement intéressée au développement Web car je pouvais créer en utilisant du code.",
-    "par3": "À part la programmation, j'ai plusieurs hobbies comme le dessin, la lecture et les jeux videos.",
+    "par2": "Après m'être spécialisée en Génie Logiciel, je me suis intéressée au développement Web car je pouvais créer en utilisant du code.",
+    "par3": "À part la programmation, j'ai plusieurs hobbies comme le dessin, la lecture, la photographie et les jeux videos.",
     "par4": "Voici quelques technologies que j'ai déja utilisée:"
   },
   "Projects": {
@@ -48,7 +48,8 @@
     ]
   },
   "Contact": {
-    "par": "Je suis interessée par un stage ou une formation en alternance, si vous pensez que mes compétences peuvent vous être utiles, je suis disponible à votre disposition.",
+    "par": "Je suis à la recherche d'un stage ou d'une formation en alternance pour mettre en pratique mes compétences aquises au cours de mon parcours universitaire.",
+    "span": "Je reste joignable par mail.",
     "location": "Paris, France"
   }
 }

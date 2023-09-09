@@ -35,7 +35,7 @@ const Header = ({ handleMobileNav, show, resetShowState }) => {
               <X size={40} color="#003049" strokeWidth={3} />
             </button>
 
-            <div className="fixed flex flex-col items-end right-0 -z-50 bg-background-100 shadow-sm">
+            <div className="fixed flex flex-col w-full items-end right-0 -z-50 bg-background-100 shadow-sm">
               <button className="m-2 float-right" onClick={handleMobileNav}>
                 <X size={40} color="#003049" strokeWidth={3} />
               </button>

@@ -5,7 +5,7 @@ const RightProjectCard = ({ projectID, title, image, lang, desc, subBool, subDes
   return (
     <div
       key={projectID}
-      className="md:flex md:relative mb-12 md:mb-64 lg:mb-28 xl:mb-32"
+      className="md:flex md:relative mb-12 md:mb-64 lg:mb-28 xl:mb-32 lg:mx-4"
     >
       {/* Image */}
       <img /* 1920 x 931 */
@@ -13,7 +13,7 @@ const RightProjectCard = ({ projectID, title, image, lang, desc, subBool, subDes
         src={image}
         alt={title}
       />
-      <div className="cardText md:absolute md:top-60 xmd:top-[16.5rem] lg:top-12 xl:top-24 xxl:top-36 2xl:top-[12.5rem] md:right-0 2xl:right-5 w-full md:w-3/4 xmd:w-2/3 lg:w-[47%] xl:w-[47%] 2xl:w-1/2 p-8 h-50 md:h-60 lg:h-64">
+      <div className="cardText md:absolute md:top-[15.5rem] xmd:top-[17rem] lg:top-12 xl:top-24 xxl:top-36 2xl:top-[12.5rem] md:right-0 2xl:right-5 w-full md:w-3/4 xmd:w-2/3 lg:w-[47%] xl:w-[47%] 2xl:w-1/2 p-8 h-50 md:h-60 lg:h-64">
         <div className="flex items-start justify-between">
           <div>
             <h1 className="mb-2 font-main text-lg 2xl:text-2xl text-thunderbird-700">
@@ -69,7 +69,7 @@ const LeftProjectCard = ({ projectID, title, image, lang, desc, subBool, subDesc
         src={image}
         alt={title}
       />
-      <div className="cardText md:absolute md:left-0 md:top-60 xmd:top-[16.5rem] lg:top-12 xl:top-24 xxl:top-36 2xl:top-[12.5rem] 2xl:left-5 md:right-0 2xl:right-5 w-full md:w-3/4 xmd:w-2/3 lg:w-[47%] xl:w-[47%] 2xl:w-1/2 p-8 h-50 md:h-60 lg:h-64">
+      <div className="cardText md:absolute md:left-0 md:top-[15.5rem] xmd:top-[17rem] lg:top-12 xl:top-24 xxl:top-36 2xl:top-[12.5rem] 2xl:left-5 md:right-0 2xl:right-5 w-full md:w-3/4 xmd:w-2/3 lg:w-[47%] xl:w-[47%] 2xl:w-1/2 p-8 h-50 md:h-60 lg:h-64">
         <div className="flex items-start justify-between">
           <div>
             <h1 className="mb-2 font-main text-lg 2xl:text-2xl text-thunderbird-700">

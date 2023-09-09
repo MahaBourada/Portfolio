@@ -26,8 +26,8 @@ function App() {
           show={show}
           resetShowState={resetShowState}
         />
-        <Main show={show} />
-        <Footer show={show} />
+        <Main />
+        <Footer />
         <SocialMenu />
       </div>
   );

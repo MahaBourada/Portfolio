@@ -2,14 +2,12 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MahaBourada.github.io/portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.8",
     "@mui/material": "^5.14.8",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.1",
     "file-saver": "^2.0.5",
     "i18next": "^23.5.0",
@@ -21,10 +19,11 @@
     "react-icons": "^4.10.1",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
-    "react-type-animation": "^3.1.0",
-    "web-vitals": "^2.1.4"
+    "react-type-animation": "^3.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,6 +50,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "autoprefixer": "^10.4.14",
+    "gh-pages": "^6.0.0",
     "postcss": "^8.4.25",
     "tailwindcss": "^3.3.2"
   }

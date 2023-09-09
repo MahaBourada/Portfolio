@@ -1,12 +1,12 @@
 {
   "Home": {
-    "hello": "Hi there, i'm",
+    "hello": "Hi there, I'm",
     "job": {
       "key": "english",
       "1": "I'm a software developer",
       "2": "I'm a web developer"
     },
-    "desc": "I've always been passionate about computer science, specifically web development where i can be creative. I have an interest in video games development as well.",
+    "desc": "I've always had a passion for computer science, especially web development, which allows me to express my creativity. I am also very interested in video game development.",
     "resume": {
       "label": "Resume",
       "file": "Files/CV_english.pdf",
@@ -16,9 +16,9 @@
   },
   "About": {
     "title": "About",
-    "par1": "I have a bachelor's degree in software engineering. My journey in computer science started with playing video games and getting curious on how they're developed.",
-    "par2": "After majoring in computer science, my interest switched to web development, i felt like i was drawing using code.",
-    "par3": "Aside from programming, I enjoy many hobbies such as drawing, reading and playing video games.",
+    "par1": "I hold a Bachelor's degree in Software Engineering. My interest in computer science began with playing video games and becoming intrigued about how they are created.",
+    "par2": "After majoring in computer science, my attention shifted to web development, where I felt like I was drawing with code.",
+    "par3": "Aside from programming, I have a variety of interests, including drawing, reading, photography, and video games.",
     "par4": "Here are some of the technologies I've worked with:"
   },
   "Projects": {
@@ -60,7 +60,8 @@
     ]
   },
   "Contact": {
-    "par": "I am interested in internships so if you think that my skills are helpful don't hesitate to contact me.",
+    "par": "I'm looking for an internship or work-linked training to put the skills I learned in university to use.",
+    "span": "You can contact me through email.",
     "location": "Paris, France"
   }
 }

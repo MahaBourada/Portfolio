@@ -29,16 +29,8 @@ const NavBar = ({ resetShowState }) => {
     },
   });
 
-  /* const styles = {
-      marginBottom: "40px",
-      width: "160px",
-      '@media (min-width: 1200px)': {
-        display: 'none',
-      }
-  } */
-
   return (
-    <div className="flex flex-col lg:flex-row font-main lg:text-xs py-14 lg:py-4 px-20 lg:px-36 h-screen lg:h-fit bg-background-100 ">
+    <div className="flex flex-col lg:flex-row bg-background-100 font-main lg:text-xs py-14 lg:py-4 px-20 mx-auto lg:px-36 h-screen lg:h-fit">
       <ThemeProvider theme={theme}>
         <Box sx={{ minWidth: 120 }}>
           <FormControl fullWidth size="small">
@@ -47,7 +39,10 @@ const NavBar = ({ resetShowState }) => {
                 labelId="demo-simple-select-label"
                 id="demo-simple-select"
                 value={selectedLanguage}
-                onChange={chooseLanguage}
+                onChange={(e) => {
+                  chooseLanguage(e)
+                  resetShowState()
+                }}
                 sx={{ color: "#003049", width: '160px' }}
               >
                 <MenuItem value="en">English</MenuItem>
@@ -59,12 +54,12 @@ const NavBar = ({ resetShowState }) => {
       </ThemeProvider>
 
       <div className="hidden lg:block lg:my-auto lg:border-r-2 lg:border-r-prussian-blue-950 lg:ml-6 lg:h-10"></div>
-      <div className="flex flex-col lg:flex-row">
+      <div className="flex flex-col lg:flex-row items-center">
         <Link
           to="home"
           smooth={true}
           duration={500}
-          className="lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline hover:translate-y-1px"
+          className="slide-left lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline hover:translate-y-1px"
           onClick={resetShowState}
         >
           Home
@@ -73,7 +68,7 @@ const NavBar = ({ resetShowState }) => {
           to="about"
           smooth={true}
           duration={1000}
-          className="lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline  hover:translate-y-1px"
+          className="slide-left lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline  hover:translate-y-1px"
           onClick={resetShowState}
         >
           {t("About.title")}
@@ -83,7 +78,7 @@ const NavBar = ({ resetShowState }) => {
           to="projects"
           smooth={true}
           duration={1050}
-          className="lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline  hover:translate-y-1px"
+          className="slide-left lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline  hover:translate-y-1px"
           onClick={resetShowState}
         >
           {t("Projects.title")}
@@ -93,7 +88,7 @@ const NavBar = ({ resetShowState }) => {
           to="contact"
           smooth={true}
           duration={1100}
-          className="lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline  hover:translate-y-1px"
+          className="slide-left lg:my-auto mb-6 lg:ml-6 cursor-pointer hover:underline  hover:translate-y-1px"
           onClick={resetShowState}
         >
           Contact
@@ -105,7 +100,7 @@ const NavBar = ({ resetShowState }) => {
             size={40}
             color="#C1121F"
             strokeWidth={2.25}
-            className="hover:-translate-y-1px hover:translate-x-1px mt-[0.3rem] mr-[0.6rem]"
+            className="slide-up hover:-translate-y-1px hover:translate-x-1px mt-[0.3rem] mr-[0.6rem]"
           />
         </a>
         <a
@@ -118,7 +113,7 @@ const NavBar = ({ resetShowState }) => {
             alt="GitHub Icon"
             width={50}
             height={50}
-            className="hover:-translate-y-1px hover:translate-x-1px"
+            className="slide-up hover:-translate-y-1px hover:translate-x-1px"
           />
         </a>
         <a
@@ -131,7 +126,7 @@ const NavBar = ({ resetShowState }) => {
             alt="LinkedIn Icon"
             width={50}
             height={50}
-            className="hover:-translate-y-1px hover:translate-x-1px"
+            className="slide-up hover:-translate-y-1px hover:translate-x-1px"
           />
         </a>
       </div>
