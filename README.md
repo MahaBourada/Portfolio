@@ -11,6 +11,8 @@
     <li>react-i18next</li>
     <li>Material UI</li>
   </ul>
+  <br/>
+  <li><b>Pictures from Pinterest.</b></li>
 </ul>
 
 # Preview
