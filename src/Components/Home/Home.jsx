@@ -28,8 +28,9 @@ const Home = () => {
             // Same substring at the start will only be typed out once, initially
             t("Home.job.1"),
             1000, // wait 1s before replacing "Mice" with "Hamsters"
-            t("Home.job.2")
-            ,
+            t("Home.job.2"),
+            1000,
+            t("Home.job.3"),
             1000,
           ]}
           wrapper="h1"

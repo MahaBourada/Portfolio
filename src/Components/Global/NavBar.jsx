@@ -40,13 +40,13 @@ const NavBar = ({ resetShowState }) => {
                 id="demo-simple-select"
                 value={selectedLanguage}
                 onChange={(e) => {
-                  chooseLanguage(e)
-                  resetShowState()
+                  chooseLanguage(e);
+                  resetShowState();
                 }}
-                sx={{ color: "#003049", width: '160px' }}
+                sx={{ color: "#003049", width: "160px" }}
               >
-                <MenuItem value="en">English</MenuItem>
                 <MenuItem value="fr">Français</MenuItem>
+                <MenuItem value="en">English</MenuItem>
               </Select>
             </div>
           </FormControl>

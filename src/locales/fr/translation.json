@@ -3,10 +3,11 @@
     "hello": "Salut, je suis",
     "job": {
       "key": "french",
-      "1": "Je suis développeuse logiciel",
-      "2": "Je suis développeuse web"
+      "1": "Je suis étudiante en master 1",
+      "2": "Je suis développeuse logiciel",
+      "3": "Je suis développeuse web"
     },
-    "desc": "J'ai toujours été passionnée par l'informatique depuis mon plus jeune âge, surtout le développement web où je peux être créative. Je suis également interessée par le développement de jeux vidéos.",
+    "desc": "Je suis passionnée par le vaste domaine de l'informatique, en particulier par le développement des logiciels où je peux être créative et innovante.",
     "resume": {
       "label": "CV",
       "file": "Files/CV_francais.pdf",
@@ -16,8 +17,8 @@
   },
   "About": {
     "title": "À propos",
-    "par1": "Je suis titulaire d'un diplôme en Génie Logiciel. Mon intérêt pour la programmation est né quand j'ai commencé à jouer aux jeux videos. Leur développement a attisé ma curiosité.",
-    "par2": "Après m'être spécialisée en Génie Logiciel, je me suis intéressée au développement Web car je pouvais créer en utilisant du code.",
+    "par1": "Actuellement étudiante en Master 1 Ingénierie des Logiciels et Systèmes Intelligents et titulaire d'une licence en Génie Logiciel, mon intérêt pour la programmation est né quand j'ai commencé à jouer aux jeux videos. Leur développement a attisé ma curiosité.",
+    "par2": "Après m'être spécialisée en informatique, je me suis intéressée au développement des logiciels car je pouvais créer en utilisant du code.",
     "par3": "À part la programmation, j'ai plusieurs hobbies comme le dessin, la lecture, la photographie et les jeux videos.",
     "par4": "Voici quelques technologies que j'ai déja utilisée:"
   },
@@ -48,8 +49,8 @@
     ]
   },
   "Contact": {
-    "par": "Je suis à la recherche d'un stage ou d'une formation en alternance pour mettre en pratique mes compétences aquises au cours de mon parcours universitaire.",
-    "span": "Je reste joignable par mail.",
-    "location": "Paris, France"
+    "par": "Si mon profil vous intéresse et vous considérez que ma motivation est à la hauteur des exigences de vos universités,",
+    "span": "n'hésitez pas à me contacter par mail ou via Linked In.",
+    "location": "Constantine, Algérie"
   }
 }
