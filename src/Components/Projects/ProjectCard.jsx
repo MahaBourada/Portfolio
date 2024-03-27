@@ -5,7 +5,7 @@ const RightProjectCard = ({ projectID, title, image, lang, desc, subBool, subDes
   return (
     <div
       key={projectID}
-      className="md:flex md:relative mb-12 md:mb-64 lg:mb-28 xl:mb-32 lg:mx-4"
+      className="md:flex md:relative mb-12 md:mb-64 lg:mb-28 lg:mx-4 xl:mb-32 min-[1536px]:mt-48"
     >
       {/* Image */}
       <img /* 1920 x 931 */
@@ -61,7 +61,7 @@ const LeftProjectCard = ({ projectID, title, image, lang, desc, subBool, subDesc
   return (
     <div
       key={projectID}
-      className="md:flex md:flex-row-reverse md:relative mb-12 md:mb-64 lg:mb-28 xl:mb-32"
+      className="md:flex md:flex-row-reverse md:relative mb-12 md:mb-64 lg:mb-28 xl:mb-32 min-[1536px]:mt-48"
     >
       {/* Image */}
       <img /* 1920 x 931 */
