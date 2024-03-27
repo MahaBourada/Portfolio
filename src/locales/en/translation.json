@@ -28,35 +28,23 @@
       {
         "id": "1",
         "title": "BotsCompete",
-        "lang": "React JS, Node.js, MySQL",
         "subDesc": "Graduation group project",
-        "desc": "Secure competitve e-learning platform about machine learning challenges.",
-        "url": "https://github.com/MahaBourada/BotsCompete",
-        "image": "img/BotsCompete.png"
+        "desc": "Secure competitve e-learning platform about machine learning challenges."
       },
       {
         "id": "2",
-        "title": "E-learning website",
-        "lang": "HTML & CSS, JavaScript",
-        "desc": "Front-end of an e-learning website (teacher side).",
-        "url": "https://github.com/MahaBourada/E-learning_Front-end",
-        "image": "img/BotsCompete.png"
+        "title": "Walmart Recruiting Store Sales Forecasting",
+        "desc": "Predicting the weekly sales of the Walmart historical sales dataset."
       },
       {
         "id": "3",
         "title": "Thiqa - Mobile Application",
-        "lang": "Android Studio (XML, Java), Firebase",
-        "desc": "A mobile app that allows you to submit a request for a commercial register in order to have the necessary permissions to establish a business.",
-        "url": "https://github.com/MahaBourada/Thiqa-Commercial-Register-Mobile-App",
-        "image": "img/BotsCompete.png"
+        "desc": "A mobile app that allows you to submit a request for a commercial register in order to have the necessary permissions to establish a business."
       },
       {
         "id": "4",
         "title": "Weather application",
-        "lang": "React",
-        "desc": "Weather application developed using ReactJS and the Open Weather Map API.",
-        "url": "https://github.com/MahaBourada/React_Weather_App",
-        "image": "img/BotsCompete.png"
+        "desc": "Weather application developed using ReactJS and the Open Weather Map API."
       }
     ]
   },

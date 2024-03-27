@@ -31,51 +31,46 @@
   },
   {
     "id": 7,
-    "name": "Oracle",
-    "icon": "img/OracleIcon.png"
-  },
-  {
-    "id": 8,
     "name": "HTML & CSS",
     "icon": "img/HtmlCssIcon.png"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "JavaScript",
     "icon": "img/JSIcon.png"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Android Studio (XML, Java)",
     "icon": "img/ASIcon.png"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Python",
     "icon": "img/PythonIcon.png"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "C",
     "icon": "img/ClangIcon.png"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Java",
     "icon": "img/JavaIcon.png"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "UML",
     "icon": "img/UMLIcon.png"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Git",
     "icon": "img/GitIcon.png"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "LaTeX",
     "icon": "img/LatexIcon.png"
   }
