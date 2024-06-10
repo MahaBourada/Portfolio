@@ -44,7 +44,7 @@
       {
         "id": "3",
         "title": "Assurini - Site web de gestion administrateur",
-        "desc": "Un site web qui permet de gérer la création, consultation, édition et suppression des compagnies et offres d'assurance, ainsi que de visualiser les statistiques générales des données de l'application."
+        "desc": "Un site web qui permet de gérer la gestion des données des compagnies et offres d'assurance, ainsi que de visualiser les statistiques générales des données de l'application."
       }
     ]
   },
