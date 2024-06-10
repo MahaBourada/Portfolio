@@ -43,8 +43,8 @@
       },
       {
         "id": "3",
-        "title": "Application météo",
-        "desc": "Application météo développée avec ReactJS et l'API Open Weather Map."
+        "title": "Assurini - Site web de gestion administrateur",
+        "desc": "Un site web qui permet de gérer la création, consultation, édition et suppression des compagnies et offres d'assurance, ainsi que de visualiser les statistiques générales des données de l'application."
       }
     ]
   },
