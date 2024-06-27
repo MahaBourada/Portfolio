@@ -3,7 +3,7 @@
     "hello": "Salut, je suis",
     "job": {
       "key": "french",
-      "1": "Je suis étudiante en master 1",
+      "1": "Je suis étudiante en Master Informatique",
       "2": "Je suis développeuse logiciel",
       "3": "Je suis développeuse web"
     },
@@ -17,10 +17,10 @@
   },
   "About": {
     "title": "À propos",
-    "par1": "Actuellement étudiante en Master 1 Ingénierie des Logiciels et Systèmes Intelligents et titulaire d'une licence en Génie Logiciel, mon intérêt pour la programmation est né quand j'ai commencé à jouer aux jeux videos. Leur développement a attisé ma curiosité.",
-    "par2": "Après m'être spécialisée en informatique, je me suis intéressée au développement des logiciels car je pouvais créer en utilisant du code.",
-    "par3": "À part la programmation, j'ai plusieurs hobbies comme le dessin, la lecture, la photographie et les jeux videos.",
-    "par4": "Voici quelques technologies que j'ai déja utilisée:"
+    "par1": "Actuellement étudiante en Master Ingénierie des Logiciels et Systèmes Intelligents et titulaire d'une licence en Génie Logiciel, mon intérêt pour la programmation est né de ma passion des jeux videos. Leur développement et animation a attisé ma curiosité.",
+    "par2": "De ma formation informatique, je me suis orientée vers le développement des logiciels car je pouvais déployer ma créativité en utilisant du code.",
+    "par3": "En plus de la programmation, je me passione pour le dessin, la lecture, la photographie et les jeux videos.",
+    "par4": "Voici quelques technologies que je maitrîse:"
   },
   "Projects": {
     "title": "Projets",
@@ -50,7 +50,7 @@
   },
   "Contact": {
     "par": "Si mon profil vous intéresse et vous considérez que ma motivation est à la hauteur des exigences de vos universités,",
-    "span": "n'hésitez pas à me contacter par mail ou via Linked In.",
+    "span": "Contactez-moi!",
     "location": "Constantine, Algérie"
   }
 }

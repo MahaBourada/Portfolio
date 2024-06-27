@@ -3,7 +3,7 @@
     "hello": "Hi there, I'm",
     "job": {
       "key": "english",
-      "1": "I'm a master 1 student",
+      "1": "I'm a Master's student in Computer Science",
       "2": "I'm a software developer",
       "3": "I'm a web developer"
     },
@@ -17,10 +17,10 @@
   },
   "About": {
     "title": "About",
-    "par1": "Currently studying for a Master 1 in Software and Intelligent Systems Engineering, with a Bachelor in Software Engineering, my interest in programming began when I started playing video games. Their development aroused my curiosity.",
+    "par1": "Currently studying for a Master 1 in Software and Intelligent Systems Engineering, with a Bachelor in Software Engineering, my interest in programming began from playing video games. Their development and animation aroused my curiosity.",
     "par2": "After majoring in computer science, my attention shifted to software development, where I felt like I was drawing with code.",
     "par3": "Aside from programming, I have a variety of interests, including drawing, reading, photography, and video games.",
-    "par4": "Here are some of the technologies I've worked with:"
+    "par4": "Here are some of the technologies that I master:"
   },
   "Projects": {
     "title": "Projects",
