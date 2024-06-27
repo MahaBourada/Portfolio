@@ -49,8 +49,8 @@
     ]
   },
   "Contact": {
-    "par": "If my profile and motivation meet your requirements, contact me!,",
-    
+    "par": "If my profile and motivation meet your requirements",
+    "span": "Contact me!",
     "location": "Constantine, Algeria"
   }
 }

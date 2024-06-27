@@ -49,8 +49,8 @@
     ]
   },
   "Contact": {
-    "par": "Si mon profil et ma motivation est correspendent à vos exigences, Contactez-moi!",
-    
+    "par": "Si mon profil et ma motivation correspendent à vos exigences,",
+    "span": "Contactez-moi!",
     "location": "Constantine, Algérie"
   }
 }
