@@ -17,8 +17,8 @@
   },
   "About": {
     "title": "À propos",
-    "par1": "Actuellement étudiante en Master Ingénierie des Logiciels et Systèmes Intelligents et titulaire d'une licence en Génie Logiciel, mon intérêt pour la programmation est né de ma passion des jeux videos. Leur développement et animation a attisé ma curiosité.",
-    "par2": "De ma formation informatique, je me suis orientée vers le développement des logiciels car je pouvais déployer ma créativité en utilisant du code.",
+    "par1": "Etudiante en Master \"Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales\", mon intérêt pour la programmation est né de ma passion des jeux videos. Leur développement et animation a attisé ma curiosité.",
+    "par2": "De ma formation informatique, je me suis orientée vers le développement des logiciels ce qui me permet de déployer ma créativité en utilisant du code.",
     "par3": "En plus de la programmation, je me passione pour le dessin, la lecture, la photographie et les jeux videos.",
     "par4": "Voici quelques technologies que je maitrîse:"
   },
@@ -51,6 +51,6 @@
   "Contact": {
     "par": "Si mon profil et ma motivation correspendent à vos exigences,",
     "span": "Contactez-moi!",
-    "location": "Constantine, Algérie"
+    "location": "Paris, France"
   }
 }
