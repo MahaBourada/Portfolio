@@ -1,30 +1,30 @@
 [
-    {
-        "id": "0",
-        "lang": "React JS, Node.js, MySQL",
-        "subDesc": true,
-        "url": "https://github.com/MahaBourada/BotsCompete",
-        "image": "img/BotsCompetePreview.png"
-    },
-    {
-        "id": "1",
-        "lang": "Pyhton/Jupyter Notebook",
-        "subDesc": false,
-        "url": "https://github.com/MahaBourada/Walmart-Recruiting-Store-Sales-Forecasting",
-        "image": "img/WalmartPreview.png"
-    },
-    {
-        "id": "2",
-        "lang": "Android Studio (XML, Java), Firebase",
-        "subDesc": false,
-        "url": "https://github.com/MahaBourada/Thiqa-Commercial-Register-Mobile-App",
-        "image": "img/ThiqaPreview.png"
-    },
-    {
-        "id": "3",
-        "lang": "ReactJS, Node.js, Express.js, MongoDB (MERN Stack)",
-        "subDesc": false,
-        "url": "https://github.com/MahaBourada/Assurini-Admin",
-        "image": "img/AssuriniPreview.png"
-    }
+  {
+    "id": "0",
+    "lang": "ReactJS, Node.js, Express.js, MongoDB (MERN Stack)",
+    "subDesc": false,
+    "url": "https://github.com/MahaBourada/Assurini-Admin",
+    "image": "img/AssuriniPreview.png"
+  },
+  {
+    "id": "1",
+    "lang": "React JS, Node.js, MySQL",
+    "subDesc": true,
+    "url": "https://github.com/MahaBourada/BotsCompete",
+    "image": "img/BotsCompetePreview.png"
+  },
+  {
+    "id": "2",
+    "lang": "Pyhton/Jupyter Notebook",
+    "subDesc": false,
+    "url": "https://github.com/MahaBourada/Walmart-Recruiting-Store-Sales-Forecasting",
+    "image": "img/WalmartPreview.png"
+  },
+  {
+    "id": "3",
+    "lang": "Android Studio (XML, Java), Firebase",
+    "subDesc": false,
+    "url": "https://github.com/MahaBourada/Thiqa-Commercial-Register-Mobile-App",
+    "image": "img/ThiqaPreview.png"
+  }
 ]

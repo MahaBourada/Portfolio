@@ -27,24 +27,24 @@
     "list": [
       {
         "id": "0",
+        "title": "Assurini - Site web de gestion administrateur",
+        "desc": "Un site web de gestion des compagnies et des offres d'assurance, et de visualisation des statistiques des données de l'application."
+      },
+      {
+        "id": "1",
         "title": "BotsCompete",
         "subDesc": "Projet de fin d'études",
         "desc": "Plateforme d'apprentissage compétitive et sécurisée pour les défis techniques en machine learning."
       },
       {
-        "id": "1",
+        "id": "2",
         "title": "Walmart Recruiting Store Sales Forecasting",
         "desc": "Prédiction des ventes hebdomadaires à partir du dataset des ventes de Walmart."
       },
       {
-        "id": "2",
+        "id": "3",
         "title": "Thiqa - Application mobile",
         "desc": "Une application mobile qui permet de déposer une demande d'inscription pour un registre du commerce afin d'avoir les autorisations nécessaires pour créer une entreprise."
-      },
-      {
-        "id": "3",
-        "title": "Assurini - Site web de gestion administrateur",
-        "desc": "Un site web de gestion des compagnies et des offres d'assurance, et de visualisation des statistiques des données de l'application."
       }
     ]
   },

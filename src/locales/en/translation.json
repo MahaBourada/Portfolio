@@ -26,6 +26,11 @@
     "title": "Projects",
     "list": [
       {
+        "id": "0",
+        "title": "Assurini - Administrator management website",
+        "desc": "A website for managing insurance companies and offers, and for viewing application data statistics."
+      },
+      {
         "id": "1",
         "title": "BotsCompete",
         "subDesc": "Graduation group project",
@@ -40,11 +45,6 @@
         "id": "3",
         "title": "Thiqa - Mobile Application",
         "desc": "A mobile app that allows you to submit a request for a commercial register in order to have the necessary permissions to establish a business."
-      },
-      {
-        "id": "4",
-        "title": "Assurini - Administrator management website",
-        "desc": "A website for managing insurance companies and offers, and for viewing application data statistics."
       }
     ]
   },
